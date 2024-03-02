@@ -1,0 +1,9 @@
+body {
+    font-family: Poppins, sans-serif;
+}
+
+.list-group-item {
+    border: none;
+    background: none;
+}
+
